@@ -1,14 +1,5 @@
 ### Hi there 👋
 
-I'm Jack:
-
-
-I'm a computer science student 💻
-
-I'm a Teaching Assistant 🕺
-
-I run the course website https://eecs370.github.io/ 👨🏻‍🎨
-
 <!--
 **jackphong/jackphong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
